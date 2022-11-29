@@ -1,0 +1,28 @@
+{
+  "name": "cicd_jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lagonscint/cicd_jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lagonscint/cicd_jenkins/issues"
+  },
+  "homepage": "https://github.com/lagonscint/cicd_jenkins#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.1.0",
+    "should": "^13.2.3",
+    "supertest": "^6.3.1"
+  }
+}
